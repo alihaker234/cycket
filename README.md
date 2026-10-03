@@ -4,12 +4,16 @@
 </br></h3> 
 installation:
 download the ipa then download sideloadly and import the ipa to the iphone but you need to entre your apple id account and password
-
+Information:
 By default this jailbreak does NOT install Zebra, instead it uses [cydia] https://cydia.saurik.com/
 
 As with all jailbreaks, there is NO WARRANTY with this software, so use at your own risk. 
 
 If you have an issue please report it via this repo's issues tab.
+compatibilite:
+iphone 5c
+iphone 5
+ios 10.x.x
 ## Credits
   - [staturnz](https://github.com/staturnzz)
   - [kok3shidoll](https://github.com/kok3shidoll)
